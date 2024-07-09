@@ -15,7 +15,7 @@ Para executar este projeto, você precisa ter o [Node.js](https://nodejs.org/) e
 1. **Clone este repositório em sua máquina local:**
 
     ```bash
-    git clone https://github.com/seu-usuario/jogo-da-velha.git
+    git clone https://github.com/matheusasc/jogo-da-velha.git
     ```
     
 2. **Navegue até o diretório do projeto:**
@@ -32,11 +32,12 @@ Para executar este projeto, você precisa ter o [Node.js](https://nodejs.org/) e
 
 ### Executando o Jogo
 
-**Dentro do diretório do projeto, inicie o servidor HTTP:**
+4. **Dentro do diretório do projeto, inicie o servidor HTTP:**
 
     ```bash
     http-server
     ```
+    
 **Abra seu navegador e navegue até o endereço fornecido pelo http-server (geralmente http://127.0.0.1:8080).**
 
 
